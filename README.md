@@ -69,7 +69,7 @@
 
 ## 👤 Автор
 
-**Arkadii Alekseev**
+**Luxelemental**
 Junior QA Engineer
 📧 lorderon225@gmail.com
 💬 Telegram: @arkelement
